@@ -1,5 +1,6 @@
-[
-  "job-posts": {
+{
+  "job-posts": [
+    {
     "is_favourite": false,
     "company_name": "Google",
     "job_title": "Software Enginerr",
@@ -31,4 +32,5 @@
       "job_apply_last_date": "2020-09-05 01:20:50.726043",
       "job_apply_last_date_count": 2
   }
-]
+    ]
+}
