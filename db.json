@@ -5,6 +5,7 @@
       {
         "is_favourite": false,
         "company_name": "スターバックス コーヒー ジャパン 株式会社",
+        "image": "https://images.unsplash.com/photo-1598122189806-f3ae429d5232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
         "job_title": "【未経験OK!正社員登用あり】スターバックスコーヒーでの接客業務",
         "salary": "8,000",
         "office_time": {
@@ -23,6 +24,7 @@
       {
         "is_favourite": true,
         "company_name": "Facebook",
+                "image": "https://images.unsplash.com/photo-1598122189806-f3ae429d5232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
         "job_title": "Senior Software Engineer",
         "salary": "9,000",
         "office_time": {
@@ -40,6 +42,7 @@
       {
         "is_favourite": true,
         "company_name": "Rakuten",
+                "image": "https://images.unsplash.com/photo-1598122189806-f3ae429d5232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
         "job_title": "Data Platform Engineer (Incubation Projects Section - Ecosystem Service Insight)",
         "salary": "10,000",
         "office_time": {
