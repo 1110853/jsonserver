@@ -5,7 +5,7 @@
       {
         "is_favourite": false,
         "company_name": "スターバックス コーヒー ジャパン 株式会社",
-        "image": "https://images.unsplash.com/photo-1598122189806-f3ae429d5232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+        "image": "https://ibb.co/k05pzqV",
         "job_title": "【未経験OK!正社員登用あり】スターバックスコーヒーでの接客業務",
         "salary": "8,000",
         "office_time": {
@@ -24,7 +24,7 @@
       {
         "is_favourite": true,
         "company_name": "Facebook",
-        "image": "https://images.unsplash.com/photo-1598122189806-f3ae429d5232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+        "image": "https://ibb.co/k05pzqV",
         "job_title": "Senior Software Engineer",
         "salary": "9,000",
         "office_time": {
@@ -42,7 +42,7 @@
       {
         "is_favourite": true,
         "company_name": "Rakuten",
-        "image": "https://images.unsplash.com/photo-1598122189806-f3ae429d5232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+        "image": "https://ibb.co/k05pzqV",
         "job_title": "Data Platform Engineer (Incubation Projects Section - Ecosystem Service Insight)",
         "salary": "10,000",
         "office_time": {
@@ -74,43 +74,43 @@
       "salary": [
         {
           "id": "1",
-          "amount": "1000"
+          "amount": "1000円以上"
         },
         {
           "id": "2",
-          "amount": "2000"
+          "amount": "2000円以上"
         },
         {
           "id": "3",
-          "amount": "3000"
+          "amount": "3000円以上"
         },
         {
           "id": "4",
-          "amount": "4000"
+          "amount": "4000円以上"
         },
         {
           "id": "5",
-          "amount": "5000"
+          "amount": "5000円以上"
         },
         {
           "id": "6",
-          "amount": "6000"
+          "amount": "6000円以上"
         },
         {
           "id": "7",
-          "amount": "7000"
+          "amount": "7000円以上"
         },
         {
           "id": "8",
-          "amount": "8000"
+          "amount": "8000円以上"
         },
         {
           "id": "9",
-          "amount": "9000"
+          "amount": "9000円以上"
         },
         {
           "id": "10",
-          "amount": "10000"
+          "amount": "10000円以上"
         }
       ],
       "features": [
@@ -231,11 +231,11 @@
       ]
     },
     "pagination": {
-      "page_count": 0,
-      "current_page": 0,
+      "page_count": 10,
+      "current_page": 1,
       "has_next_page": true,
       "has_prev_page": true,
-      "count": 0,
+      "count": 3,
       "limit": 0
     }
   }
